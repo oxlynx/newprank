@@ -1,0 +1,13 @@
+## SPAM SMS & CALL ##
+
+$ pkg update && pkg upgrade
+$ pkg install python3
+$ pkg install git
+$ cd /sdcard
+$ git clone https://github.com/oxlynx/newprank
+$ cd newprank
+$ python3 sms.py atau python3 call.py
+
+## GUNAKAN DENGAN BIJAK ##
+
+Author : OxLynx
